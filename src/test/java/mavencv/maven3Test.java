@@ -6,11 +6,11 @@ public class maven3Test {
 	@Test
 	public void mvntest3()
 	{
-		System.out.println("print mventest3");
+		System.out.println("3rd class excuted ");
 	}
 	@Test
 	public void mvntest4()
 	{
-		System.out.println("print mventest4");	
+		System.out.println("3rd class excuted ");	
 	}
 }
