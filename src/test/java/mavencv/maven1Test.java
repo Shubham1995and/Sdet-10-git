@@ -14,6 +14,11 @@ public class maven1Test {
 	{
 		System.out.println("print mventest2");	
 	}
+	@Test
+	public void mvntest9()
+	{
+		System.out.println("print mventestfg");	
+	}
 	
 	
 }
